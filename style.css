@@ -1,0 +1,40 @@
+header {
+    border-bottom: 1px solid grey;
+    z-index: 2;
+}
+
+img[alt="user"] {
+    width: 40px;
+}
+
+img[alt="GoogleLogo"] {
+    width: 75px;
+}
+
+a:hover {
+    color: rgb(70, 70, 235) !important;
+    border-bottom: 3px solid rgb(70, 70, 235);
+}
+
+ul.d-flex {
+    padding: 0 !important;
+    list-style: none !important;
+}
+
+li {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+ul a {
+    color: grey !important;
+    text-decoration: none;
+}
+
+.c-grey {
+    color: grey !important;
+}
+
+main {
+    padding-top: 250px;
+}
